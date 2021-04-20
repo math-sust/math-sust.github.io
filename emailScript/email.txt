@@ -1,0 +1,17 @@
+Hello %s,
+
+We were an IQP team that was scheduled to travel to Worcester, UK this term.  As you are aware, we were unable to travel due to COVID19, so we are completing our project in country for WPI’s Office of Sustainability instead. Our project centralizes around making an online platform that provides faculty with resources to help them create quality content for teaching sustainability. The platform will also provide students with a breakdown of information about sustainability-themed courses.  
+
+Your D-Term course, %s, has been recognized by the WPI Office of Sustainability for being one of %s D-Term courses that is sustainability %s.  Currently, it is unclear if faculty members are aware that their courses are on this list.  In an effort to establish clarity we have 2 questions that we are asking you to respond to as soon as possible.
+
+1. Are you aware the course you are teaching this term is considered sustainability %s?
+
+2. We are categorizing sustainability topics as defined by the United Nations’ Sustainable Development Goals (see attachment). Do you cover any sustainability topics relating to those goals in the course you are teaching this term? 
+
+Thank you very much for your assistance, we look forward to hearing from you in the near future.
+
+Best,
+Emily Baker, Rui Huang, and Akash Shaji
+
+The Sustainable Studies IQP
+

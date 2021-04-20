@@ -1,0 +1,45 @@
+{
+    "websites": [
+        {   
+            "name": "Google Search Engine",
+            "link": "https://www.google.com/",
+            "desc": "This is a website allows faculty to search websites by keywords"
+        },
+        {   
+            "name": "Google Search Engine",
+            "link": "https://www.google.com/",
+            "desc": "This is a website allows faculty to search websites by keywords"
+        },
+        {   
+            "name": "Google Search Engine",
+            "link": "https://www.google.com/",
+            "desc": "This is a website allows faculty to search websites by keywords"
+        }
+    ],
+    "books": [
+        {
+            "name": 1
+        },
+        {
+            "name": 2
+        }
+    ],
+    "media": [
+        {
+            "name": "video 1",
+            "link": "https://www.google.com/"
+        },
+        {
+            "name": "audio 2",
+            "link": "https://www.google.com/"
+        }
+    ],
+    "others": [
+        {
+            "name": "idk yet"
+        },
+        {
+            "name": "needs more data"
+        }
+    ]
+}

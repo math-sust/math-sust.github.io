@@ -1,0 +1,3 @@
+This contains a script we wrote in order to gather a 'quick and dirty' list of SDGs that correspond to each course. 
+
+The keyword list was taken from the Updating and Assessing the Universality of the Higher-Ed Sustainability Evaluation Tool IQP (https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=6519&context=iqp-all). 

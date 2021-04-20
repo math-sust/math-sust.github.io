@@ -1,0 +1,1 @@
+This directory contains a script we wrote to generate the emails we initially sent to all Professors teaching sustainability-related curriculum. 
