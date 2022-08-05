@@ -1,14 +1,14 @@
 # Sustainability Resources Platform (sustainable-info)
 
-This is the code repository for the WPI Sustainability Resources Platform website (final deliverable of WPI D20 IQP), developed by Rui Huang, Akash Shaji and Emily Baker. 
+This is the code repository for the WPI Sustainability Resources Platform website (final deliverable of WPI D20 IQP), developed by Rui Huang, Akash Shaji and Emily Baker.
 
-You can check out a snapshot of the website [here](https://ryc1x.github.io/sustainable-studies/). For the most up-to-date version we reccomend contacting WPI's office of sustainability. 
+You can check out a snapshot of the website [here](https://ryc1x.github.io/sustainable-studies/). For the most up-to-date version we recommend contacting WPI's office of sustainability.
 
-The repository consists of a Vue.js project, which contains the necessary code for generating the website. If you plan to maintain the development, you may find the following instructions to be helpful.  
+The repository consists of a Vue.js project, which contains the necessary code for generating the website. If you plan to maintain the development, you may find the following instructions to be helpful.
 
 ## About the Project
 
-This project is developed with `Vue` 2.6 and managed with `NPM`.  
+This project is developed with `Vue` 2.6 and managed with `NPM`.
 
 - Setup
 - Updating the Curricula Listing
@@ -36,7 +36,7 @@ npm run serve
 
 #### Compiles and minifies for production
 
-You can then generate production code, containing necessary files for deploying the website. 
+You can then generate production code, containing necessary files for deploying the website.
 
 ```
 npm run build
@@ -47,7 +47,7 @@ npm run build
 
 ### Updating the Curricula Listing
 
-In order to update the curricula listing, all one has to do is update `CourseData.xlsx` under root directory and run the following command. This requires having `Python 3` with package `xlrd` installed. 
+In order to update the curricula listing, all one has to do is update `CourseData.xlsx` under root directory and run the following command. This requires having `Python 3` with package `xlrd` installed.
 
 ```
 python3 updateCourses.py
@@ -60,7 +60,7 @@ This command will run the `updateCourses.py` script and generate `courses.json` 
 
 ### Deployment
 
-To host the website for public access, you need to host the production files under `dist` directory. We are using GitHub Pages to host this lightweight front-end webpage ([Link](https://ryc1x.github.io/sustainable-studies/)). You may choose to use any website hosting service though. 
+To host the website for public access, you need to host the production files under `dist` directory. We are using GitHub Pages to host this lightweight front-end webpage ([Link](https://ryc1x.github.io/sustainable-studies/)). You may choose to use any website hosting service though.
 
 #### Deployment using GitHub Pages
 
@@ -72,7 +72,7 @@ To deploy the project, navigate to `deploy.sh`, change the file (line 20/23 spec
 bash deploy.sh
 ```
 
-Then navigate to your GitHub Pages site, the website should be deployed successfully. 
+Then navigate to your GitHub Pages site, the website should be deployed successfully.
 
 (If you doesn't change the remote repo address in the `deploy.sh`, you will not have the permission to push)
 

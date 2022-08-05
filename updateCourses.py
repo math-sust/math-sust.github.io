@@ -7,7 +7,7 @@ header = [] # The row where we stock the name of the column
 for col in range(ws.ncols):
     header.append( ws.cell_value(0,col) )
 
-# tronsform the workbook to a list of dictionnary
+# tronsform the workbook to a list of dictionary
 data =[]
 for row in range(1, ws.nrows):
     elm = {}
