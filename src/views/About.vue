@@ -14,8 +14,8 @@
           by subject or sustainability topic. It allows faculty to have easy
           access to ways sustainability can be integrated in curriculum,
           some resources to help with this process, and info on student interest in
-          sustainability topics and delivery methods. This site will help students identify course topics of interest.
-        </p>
+          sustainability topics and delivery methods. 
+	</p>
         <p>
       </div>
     </div>
