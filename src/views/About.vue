@@ -39,10 +39,10 @@
       <img class="container__imageL" src="../assets/team.png" />
 
       <div class="container__text">
-        <h1>About Us</h1>
+        <h1>About the Students who Initially Developed this Web Site</h1>
 
         <p>
-          Thanks to the team of three WPI undergraduate students who developed tehefoundation for this site: Emily Baker, Rui Huang and Akash Shaji. They completed this project in order to fulfill our Interactive Qualifying Project Requirement (IQP). The team was scheduled to complete our IQP at the University of Worcester in Worcester, UK, but due to COVID-19 they were required to do our project remotely instead. This still ended up being a 
+          Thanks to the team of three WPI undergraduate students who developed the foundation for this site. The students were: Emily Baker, Rui Huang and Akash Shaji. They completed this project in order to fulfill their Interactive Qualifying Project Requirement (IQP). The team was scheduled to complete their IQP at the University of Worcester in Worcester, UK, but due to COVID-19 they were required to do their project remotely instead. This still ended up being a 
           rewarding experience as they spent their term focused on addressing an important issue much closer to home. 
           
         </p>
