@@ -5,16 +5,14 @@
       <div class="container__text">
         <h1>About This Web Site </h1>
         <p>
-          This website serves  to help provide information for students and faculty on SDGs in courses at WPI.  
+          This website is intended to help provide information for students and faculty on SDGs in courses at WPI.  
           The site allows students to filter through sustainable courses
           by subject or sustainability topic, and provides faculty with information on easy
-          access to ways in which sustainability can be integrated in curriculum. This includes 
+          ways in which sustainability can be integrated into the curriculum. This includes 
           some resources to help with this process, and info on student interest in
           sustainability topics and delivery methods. The site was developed by a student project team interested in promoting the SDGs, and sustainability in education for WPI faculty and students. The students interviewed faculty who teach
-          sustainability themed curriculum. The surveyed students to find
-          out what sustainability topics are currently being covered at WPI and
-          what topics students want to learn about, and then used this information to
-          help them in the development of this web site. 
+          sustainability themed curriculum. They reviewed courses to find out what sustainability topics are currently being covered at WPI, and
+          surveyed students to learn what topics they want to learn about.  They used this information in the development of this web site. 
 	</p>
         <p>
       </div>
@@ -24,8 +22,8 @@
       <div class="container__text">
         <h1>About the Sustainable Development Goals (SDGs)</h1>
         <p>
-          For this site, sustainability themed courses are organized according to the United Nations’ Sustainable Development Goals (SDGs). The SDGs are 17 goals that were announced as part
-          of the United Nations 2030 Agenda for Sustainable Development. The goals help to map sustainability because these goals because they encompass a wide array of topics. WPI's Office of Sustainability and an SDG working group has also expressed interest in promoting the Sustainable Development Goals in curricula.
+          For this site, sustainability-themed courses are organized according to the United Nations’ Sustainable Development Goals (SDGs). The SDGs are 17 goals that were announced as part
+          of the United Nations 2030 Agenda for Sustainable Development. The goals help to map sustainability in courses because these goals because they encompass a wide array of topics. WPI's Office of Sustainability and an SDG working group have been working to promote the Sustainable Development Goals (SDGs) in the curriculum.
         </p>
         <p>
           To read more about the Sustainable Development Goals, visit the
