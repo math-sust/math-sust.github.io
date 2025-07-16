@@ -5,7 +5,7 @@
       <div class="container__text">
         <h1>About This Web Site </h1>
         <p>
-          This website that serves both students and faculty to help provide information on incorporating SDGs in courses in student programs.  
+          This website serves  to help provide information for students and faculty on SDGs in courses at WPI.  
           The site allows students to filter through sustainable courses
           by subject or sustainability topic, and provides faculty with information on easy
           access to ways in which sustainability can be integrated in curriculum. This includes 
