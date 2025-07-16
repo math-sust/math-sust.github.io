@@ -26,18 +26,18 @@
         style="min-height: 80vh;"
       >
         <md-tab id="tab-findings" md-label="Student Interests"
-          >We surveyed 101 students across 11 sustainability themed courses to
+          >For their IQP, a student project team surveyed 101 students across 11 sustainability themed courses to
           learn about their interests in specific Sustainable Development Goals
-          and their desired delivery methods. We received the following results.
-          To read more about our findings and methodology, see our paper (in
-          'About the Project').<br />
+          and their desired delivery methods. They  received the following results.
+          To read more about their findings and methodology, see our paper (in
+          'About this site').<br />
           <img src="../assets/studentinterestsdg.png" />
           <br /><br />
           <img src="../assets/studentinterestdelivery.jpg" />
           <p></p>
         </md-tab>
         <md-tab id="tab-resources" md-label="Sustainability Resources">
-          Here are some of the resources other faculty sent us which may help
+          Here are some of the resources other faculty provided which may help
           incorporate sustainability in the classroom.
           <md-table>
             <md-table-row>
