@@ -5,7 +5,7 @@
         <md-tab id="tab-home" md-label="Home" to="/" exact></md-tab>
         <md-tab
           id="tab-about"
-          md-label="About The Project"
+          md-label="About This Web Site"
           to="/about"
         ></md-tab>
         <md-tab
